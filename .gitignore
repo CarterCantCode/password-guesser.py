@@ -1,0 +1,22 @@
+### **.gitignore**
+
+'''gitignore
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+
+# CHECKPOINTS AND SAVED DATA
+checkpoint.json
+
+# IDE SETTINGS (PyCharm, VSCodem, ...)
+.idea/
+.vscode/
+
+# OS GENERATED FILES
+.DS_Store
+Thumbs.db
+
+# VIRTUAL ENVIRONMENT
+venv/
